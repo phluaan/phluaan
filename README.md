@@ -9,7 +9,7 @@
 - 💻 Passionate about **Backend Development** using **Java Spring Boot**, RESTful APIs, and Microservices
 - 🚀 Currently working on my capstone project: _Mravel – Travel Support Platform_
 - 🧠 Learning **Cloud Deployment**, **WebSocket**, and **System Design**
-- 📫 Contact me: **luan.dv@example.com**
+- 📫 Contact me: **luandophu8114@gmail.com**
 
 ---
 
